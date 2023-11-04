@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Bloody Terror';
+    src: url('BloodyTerror.eot');
+    src: url('BloodyTerror.eot?#iefix') format('embedded-opentype'),
+        url('BloodyTerror.woff2') format('woff2'),
+        url('BloodyTerror.woff') format('woff'),
+        url('BloodyTerror.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
